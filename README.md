@@ -24,6 +24,7 @@ HTML5 WebSocket 设计出来的目的就是要取代轮询和 Comet 技术，使
 
 
 下面是主流浏览器对 HTML5 WebSocket 的支持情况：
+
 <pre>
 Chrome	Supported in version 4+
 Firefox	Supported in version 4+
